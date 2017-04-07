@@ -1,7 +1,7 @@
 FROM        alpine:3.2
 MAINTAINER  Steve Durrheimer <s.durrheimer@gmail.com>
 
-ENV GLIBC_VERSION="2.23-r1"
+ENV GLIBC_VERSION="2.25-r1"
 
 # https://github.com/gliderlabs/docker-alpine/issues/11
 RUN \

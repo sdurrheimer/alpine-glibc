@@ -1,4 +1,4 @@
-FROM        alpine:3.2
+FROM        alpine:3.6
 MAINTAINER  Steve Durrheimer <s.durrheimer@gmail.com>
 
 ENV GIT_REPO="https://github.com/sgerrand/alpine-pkg-glibc/releases/download"
